@@ -55,14 +55,14 @@ This repository demonstrates how common bitwise operations can be used to solve 
 
 Clone the repository:
 
-git clone https://github.com/your-username/Bit_Manipulation_in_Java.git
+- git clone https://github.com/your-username/Bit_Manipulation_in_Java.git
 
 Open in IntelliJ IDEA / Eclipse / VS Code
 
 Compile and run any file:
 
-javac FileName.java
-java FileName
+- javac FileName.java
+- java FileName
 
 
 📘 Sample Example
@@ -78,25 +78,25 @@ public class PowerOfTwo {
 
 🏆 Learning Outcome
 
-After exploring this repository, you will:
+- After exploring this repository, you will:
 
-Understand how numbers are stored in binary
+- Understand how numbers are stored in binary
 
-Master bit masking techniques
+- Master bit masking techniques
 
-Write optimized solutions using bitwise logic
+- Write optimized solutions using bitwise logic
 
-Improve problem-solving speed
+- Improve problem-solving speed
 
 📈 Future Improvements
 
-Add interactive user input versions
+- Add interactive user input versions
 
-Add explanation comments for every line
+- Add explanation comments for every line
 
-Add practice problems
+- Add practice problems
 
-Add complexity comparison with normal approaches
+- Add complexity comparison with normal approaches
 
 🤝 Contributing
 
