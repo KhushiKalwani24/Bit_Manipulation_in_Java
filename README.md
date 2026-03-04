@@ -6,19 +6,19 @@ This repository demonstrates how common bitwise operations can be used to solve 
 
 📌 About the Project
 
-Bit manipulation is a powerful technique used in:
+- Bit manipulation is a powerful technique used in:
 
-Competitive Programming
+- Competitive Programming
 
-System-Level Programming
+- System-Level Programming
 
-Performance Optimization
+- Performance Optimization
 
-Cryptography
+- Cryptography
 
-Embedded Systems
+- Embedded Systems
 
-This repository provides beginner-friendly and well-structured Java implementations of essential bit operations.
+=>This repository provides beginner-friendly and well-structured Java implementations of essential bit operations.
 
 📂 Project Structure
 File Name	Description
