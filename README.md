@@ -21,14 +21,14 @@ This repository demonstrates how common bitwise operations can be used to solve 
 =>This repository provides beginner-friendly and well-structured Java implementations of essential bit operations.
 
 📂 Project Structure
-File Name	Description
-All_Operators.java	Demonstrates all basic bitwise operators in Java
-Get_ith_bit.java	Finds the value of the i-th bit
-set_update_ith_bit.java	Sets or updates the i-th bit
-Clear_last_i_bits.java	Clears the last i bits
-Clear_Range_of_bits.java	Clears bits in a given range
-Count_set_bits.java	Counts number of set (1) bits
-power_of_two.java	Checks whether a number is a power of 2
+- File Name	Description
+- All_Operators.java	Demonstrates all basic bitwise operators in Java
+- Get_ith_bit.java	Finds the value of the i-th bit
+- set_update_ith_bit.java	Sets or updates the i-th bit
+- Clear_last_i_bits.java	Clears the last i bits
+- Clear_Range_of_bits.java	Clears bits in a given range
+- Count_set_bits.java	Counts number of set (1) bits
+- power_of_two.java	Checks whether a number is a power of 2
 🧠 Concepts Covered
 
 AND (&)
