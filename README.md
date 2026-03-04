@@ -29,25 +29,27 @@ This repository demonstrates how common bitwise operations can be used to solve 
 - Clear_Range_of_bits.java	Clears bits in a given range
 - Count_set_bits.java	Counts number of set (1) bits
 - power_of_two.java	Checks whether a number is a power of 2
+
+
 🧠 Concepts Covered
 
-AND (&)
+- AND (&)
+  
+- OR (|)
 
-OR (|)
+- XOR (^)
 
-XOR (^)
+- NOT (~)
 
-NOT (~)
+- Left Shift (<<)
 
-Left Shift (<<)
+- Right Shift (>>)
 
-Right Shift (>>)
+- Bit Masking
 
-Bit Masking
+- Clearing & Updating Bits
 
-Clearing & Updating Bits
-
-Efficient Counting Techniques
+- Efficient Counting Techniques
 
 🚀 How to Run
 
